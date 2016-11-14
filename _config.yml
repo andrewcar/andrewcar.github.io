@@ -49,7 +49,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: New York City
+  - line: New York,
+  - line: New York
+  - line: USA
 
 # Credits content
 credits: 'No animals were harmed in the making of this website.'
