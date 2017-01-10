@@ -2,8 +2,8 @@
 title: Andrew Carvajal
 email: andrew@appdrew.com
 url: appdrew.com
-description: "A New York based iOS developer building in Swift and Objective-C."
-skills: "Swift - Objective-C - UX - Adobe Suite"
+description: "iOS Dev in New York building in Swift and Objective-C"
+skills: "Mobile Development | Swift | Objective-C"
 meta_author: Carvajal Andrew
 
 # Google webmaster tools
@@ -24,7 +24,7 @@ disqus_shortname: appdrew
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 2ECC71 #2ECC71
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
