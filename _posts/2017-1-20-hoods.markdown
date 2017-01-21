@@ -5,7 +5,7 @@ date: 2017-01-20
 img: hoods.png
 alt: image-alt
 project-date: January 2017
-client: Yuge, Inc.
+client: Self
 category: iOS Development with Swift 3
 description: Neighborhood geofencing map using Mapbox and weathermoji for NYC and San Francisco
 
