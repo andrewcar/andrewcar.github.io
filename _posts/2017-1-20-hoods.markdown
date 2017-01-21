@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-01-20
+img: hoods.png
+alt: image-alt
+project-date: January 2017
+client: Yuge, Inc.
+category: iOS Development with Swift 3
+description: Neighborhood geofencing map for NYC and San Francisco
+
+---
