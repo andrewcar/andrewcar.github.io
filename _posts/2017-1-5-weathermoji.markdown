@@ -6,7 +6,7 @@ img: weathermoji.png
 alt: image-alt
 project-date: January 2017
 client: Self
-category: Weather Data Translated to Emojis in Swift
-description: JSON weather -> Swift 3 -> emojis (OpenWeatherMap)
+category: iOS Development
+description: OpenWeatherMap Live Data Translated to Emojis Using Swift
 
 ---
