@@ -7,6 +7,6 @@ alt: image-alt
 project-date: January 2017
 client: Self
 category: iOS Development with Swift 3
-description: OpenWeatherMap Live Data Translated to Emojis Using Swift
+description: OpenWeatherMap live weather data translated to Emojis using Swift
 
 ---
