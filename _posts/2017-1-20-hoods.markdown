@@ -7,6 +7,6 @@ alt: image-alt
 project-date: January 2017
 client: Self
 category: iOS Development with Swift 3
-description: Neighborhood geofencing map using Mapbox and weathermoji for NYC and San Francisco
+description: [https://itunes.apple.com/us/app/hoods-neighborhood-map-for/id1064326860?ls=1&mt=8](A neighborhood geofencing map using Mapbox and weathermoji for NYC and San Francisco)
 
 ---
