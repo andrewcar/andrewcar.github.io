@@ -7,6 +7,6 @@ alt: image-alt
 project-date: January 2017
 client: Self
 category: iOS Development with Swift 3
-description: an Instagram clone
+description: An Instagram clone
 
 ---
