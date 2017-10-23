@@ -3,7 +3,7 @@ title: APPDREW
 email: andrew@appdrew.com
 url: appdrew.com
 description: "iOS Dev in New York building in Swift and Objective-C"
--skills: "Swift 3 | Mobile Development | Objective-C"
+-skills: "Swift 4 | Objective-C | Full Stack"
 meta_author: Carvajal Andrew
 
 # Google webmaster tools
@@ -39,7 +39,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-    url: https://www.instagram.com/3d_print_me
+    url: https://www.instagram.com/andrewayye
   - title: facebook
     url: https://facebook.com/theycallmeandrew
   - title: stack-overflow
