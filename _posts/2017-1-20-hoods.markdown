@@ -6,7 +6,8 @@ img: hoods.png
 alt: image-alt
 project-date: January 2017
 link: Click here for my github
-category: iOS Development with Swift 3
-description: A neighborhood geofencing map using Mapbox and weathermoji for NYC and San Francisco
+category: Updated to Swift 4
+client: Myself
+description: Neighborhood geofencing realtime chat (NYC, San Francisco, South Florida)
 
 ---
