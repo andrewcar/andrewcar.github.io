@@ -6,7 +6,7 @@ img: hoods.png
 alt: image-alt
 project-date: January 2017
 link: Click here for my github
-category: Updated to Swift 4
+category: iOS 10 with Swift 3
 client: Myself
 description: Neighborhood geofencing realtime chat (NYC, San Francisco, South Florida)
 
