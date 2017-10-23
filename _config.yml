@@ -38,14 +38,14 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: instagram
-    url: https://www.instagram.com/andrewayye
-  - title: facebook
-    url: https://facebook.com/theycallmeandrew
-  - title: stack-overflow
-    url: http://stackoverflow.com/users/3376577/andrewcar
+  - title: linkedin
+    url: https://www.linkedin.com/in/andrew-carvajal-09549538/
   - title: github
     url: http://github.com/andrewcar
+  - title: facebook
+    url: https://facebook.com/theycallmeandrew
+  - title: instagram
+    url: https://www.instagram.com/andrewayye
 
 # Postal address (add as many lines as necessary)
 address:
