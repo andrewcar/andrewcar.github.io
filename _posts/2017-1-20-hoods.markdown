@@ -8,6 +8,6 @@ project-date: January 2017
 link: Click here for my github
 category: iOS 10 with Swift 3
 client: Myself
-description: Neighborhood geofencing realtime chat (NYC, San Francisco, South Florida)
+description: Neighborhood geofencing realtime chat for NYC, San Francisco, and South Florida
 
 ---
