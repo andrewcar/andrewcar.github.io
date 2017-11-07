@@ -7,7 +7,7 @@ alt: image-alt
 project-date: January 2017
 link: Click here for my github
 category: iOS 10 with Swift 3
-client: ME
+client: Me
 description: Geofencing realtime chat for NYC, San Francisco, and South Florida neighborhoods
 
 ---
