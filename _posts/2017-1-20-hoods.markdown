@@ -4,10 +4,10 @@ modal-id: 1
 date: 2017-01-20
 img: hoods.png
 alt: image-alt
-project-date: January 2017
+project-date: July 2017
 link: Click here for my github
-category: iOS 10 with Swift 3
-client: Me
-description: Geofencing realtime chat for NYC, San Francisco, and South Florida neighborhoods
+category: iOS 11 with Swift 4
+client: Myself
+description: Neighborhood geofencing for NYC/San Francisco/South Florida
 
 ---
