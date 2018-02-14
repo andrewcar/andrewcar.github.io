@@ -6,8 +6,8 @@ img: voro.png
 alt: image-alt
 project-date: April 2017
 link: Click here for my github
-category: iOS Development with Swift 4
+category: iOS 11 with Swift 4
 client: Voro Home
-description: CRM for real estate brokerage using Firebase: client registration with signature - invoice submittal to admin, admin approval and PDF generation, automatical emails to clients)
+description: Client Relationship Manager suite for real estate brokerage for broker/agent/client use.
 
 ---
