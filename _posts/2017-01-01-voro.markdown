@@ -6,8 +6,8 @@ img: voro.png
 alt: image-alt
 project-date: April 2017
 link: Click here for my github
-category: iOS 11 with Swift 4
-client: Voro Home
-description: Client Relationship Manager suite for real estate brokerage for broker/agent/client use.
+category: Swift 4 app with Firebase real-time database
+client: VORO
+description: Client Relationship Manager for a real estate brokerage
 
 ---
