@@ -6,7 +6,7 @@ img: hoods.png
 alt: image-alt
 project-date: July 2017
 link: Click here for my github
-category: a Swift 5 
+category: Swift 5 neighborhood Spotify jukebox app
 client: New York and San Francisco
 description: Neighborhood Spotify jukebox
 
