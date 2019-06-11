@@ -6,7 +6,7 @@ img: weathermoji.png
 alt: image-alt
 project-date: January 2017
 link: Click here for my github
-category: iOS Development with Swift 3
-description: OpenWeatherMap live weather data translated to Emojis using Swift
+category: a Swift 3 app (compatible with Swift 5)
+description: OpenWeatherMap live weather data-to-emoji translator
 
 ---
