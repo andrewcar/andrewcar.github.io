@@ -6,8 +6,8 @@ img: hoods.png
 alt: image-alt
 project-date: July 2017
 link: Click here for my github
-category: iOS 11 with Swift 4
-client: Myself
-description: Neighborhood geofencing for NYC/San Francisco/South Florida
+category: a Swift 5 
+client: New York and San Francisco
+description: Neighborhood Spotify jukebox
 
 ---
