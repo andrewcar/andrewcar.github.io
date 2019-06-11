@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
 }
 
 h1,
@@ -80,7 +80,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #9B59B6;
     background: #{{ site.color.primary }};
 }
 
