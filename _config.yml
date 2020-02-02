@@ -26,8 +26,8 @@ disqus_shortname: appdrew
 color:
   primary: 9b59b6 #2ecc71
   primary-rgb: "0,0,0" #"128,179,255" purple
-  secondary: 000000 #29c5ff blue
-  secondary-dark: 000000 #29c5ff
+  secondary: 000 #29c5ff blue
+  secondary-dark: 000 #29c5ff
 
 # Footer settings
 footer:
