@@ -2,8 +2,8 @@
 title: APPDREW 
 email: andrew@appdrew.com
 url: appdrew.com
-description: "iOS Dev in New York building in Swift and Objective-C"
--skills: "Swift 4 | Objective-C | Full Stack"
+description: "iOS dev in NYC making the new FOX Sports app"
+-skills: "Swift | SwiftUI | Objective-C"
 meta_author: Carvajal Andrew
 
 # Google webmaster tools
@@ -25,9 +25,9 @@ disqus_shortname: appdrew
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 9b59b6 #2ecc71
-  primary-rgb: "155,89,182" #"128,179,255" purple
-  secondary: 29c5ff #29c5ff blue
-  secondary-dark: 29c5ff #29c5ff
+  primary-rgb: "0,0,0" #"128,179,255" purple
+  secondary: 000000 #29c5ff blue
+  secondary-dark: 000000 #29c5ff
 
 # Footer settings
 footer:
@@ -45,7 +45,7 @@ social:
   - title: facebook
     url: https://facebook.com/theycallmeandrew
   - title: instagram
-    url: https://www.instagram.com/andrewayye
+    url: https://www.instagram.com/andrewsphone
 
 # Postal address (add as many lines as necessary)
 address:
