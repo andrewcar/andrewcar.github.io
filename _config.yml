@@ -24,10 +24,10 @@ disqus_shortname: appdrew
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 9b59b6 #2ecc71
-  primary-rgb: "0,0,0" #"128,179,255" purple
-  secondary: 000 #29c5ff blue
-  secondary-dark: 000 #29c5ff
+  primary: 000000 #2ecc71
+  primary-rgb: "0,0,0" #black
+  secondary: 000000 #black
+  secondary-dark: 000000 #black
 
 # Footer settings
 footer:
